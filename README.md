@@ -54,7 +54,7 @@ This Streamlit app provides a user-friendly interface to interact with the datab
    pip install -r requirements.txt
    ```
 5. **Set up the PostgreSQL database**:
-   - Follow the setup instructions from the [Φ Maths & Statistics Lab Database](https://github.com/your-username/phi-maths-stats-lab-database) repository to create and populate the database.
+   - Follow the setup instructions from the [Φ Maths & Statistics Lab Database](https://github.com/themispap/SQL_project_phi_database) repository to create and populate the database.
 6. **Configure the database connection**:
    - Create a `.env` file in the project root directory and add your database connection string:
      ```
