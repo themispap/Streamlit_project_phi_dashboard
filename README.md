@@ -16,7 +16,7 @@
 This repository contains a Streamlit dashboard for managing the Φ Maths & Statistics Lab, an educational platform that offers data analysis projects, university courses, and lessons for secondary school students.
 
 ## Introduction
-The Φ (Phi) Maths & Statistics Lab is dedicated to providing high-quality education in mathematics and programming for high school students. We also undertake data analysis projects, equipping students with practical skills to excel in their academic and professional pursuits.
+The Φ Maths & Statistics Lab is dedicated to providing high-quality education in mathematics and programming for high school students. We also undertake data analysis projects, equipping students with practical skills to excel in their academic and professional pursuits.
 
 ## Features
 - **Dashboard**: An overview of key metrics, including total students, recent signups, and financial summaries.
