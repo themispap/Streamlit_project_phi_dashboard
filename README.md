@@ -87,9 +87,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-### Instructions:
-- Replace `path/to/screenshotX.png` with the actual paths to your screenshots.
-- Feel free to customize any other sections as needed!
-
-Let me know if you need further adjustments or anything else!
